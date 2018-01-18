@@ -155,6 +155,7 @@
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
   * [Firebase - Advanced](firebase-advanced.md)
+  * [Beginner - Talk to Me app](components/beginner-talk-to-me-app.md)
 * [Extensions](extensions.md)
 * [Terms of Service](terms-of-service.md)
 * [Concept Cards](concept-cards.md)
