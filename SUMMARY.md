@@ -143,7 +143,7 @@
     * [Creating Splash Screen](creating-splash-screen.md)
     * [Adding Privacy Policy](adding-privacy-policy.md)
     * [Package Name](basic/package-name.md)
-    * Beginner - Talk to Me app
+    * [Beginner - Talk to Me app](components/beginner-talk-to-me-app.md)
   * [Animation](animation.md)
     * [Animation & Collision Part I](animation/animation-and-collision-part-i.md)
     * [Animation & Collision Part II](animation/animation-and-collision-part-ii.md)
@@ -155,7 +155,6 @@
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
   * [Firebase - Advanced](firebase-advanced.md)
-  * [Beginner - Talk to Me app](components/beginner-talk-to-me-app.md)
 * [Extensions](extensions.md)
 * [Terms of Service](terms-of-service.md)
 * [Concept Cards](concept-cards.md)
