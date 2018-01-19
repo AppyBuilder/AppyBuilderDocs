@@ -144,6 +144,7 @@
     * [Adding Privacy Policy](adding-privacy-policy.md)
     * [Package Name](basic/package-name.md)
     * [Beginner - Talk to Me app](components/beginner-talk-to-me-app.md)
+    * [Beginner Tutorial](basic/beginnerstutorial.md)
   * [Animation](animation.md)
     * [Animation & Collision Part I](animation/animation-and-collision-part-i.md)
     * [Animation & Collision Part II](animation/animation-and-collision-part-ii.md)
