@@ -17,11 +17,11 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Feature:** Now includes block and designer property for adding TitleColor \(ref 22 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/22)\) \(Sync with MIT AI\)
 * **Bug Fix:** Map FeatureCollection icon was not displaying during drag
 * **Feature:** ListViewCuston - Now includes ability to load images from SD Card \(ref 18 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/18)\)
-* **Feature:** WebViewer Added designer and block for opening a WebViewer in external browser \(ref 18 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/18)\)
+* **Feature:** WebViewer Added designer and block for opening a WebViewer in external browser \(ref 10 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/10)\)
 * **Feature:** Added color palette wheel to designer color property
-   \(ref 25 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\)
+   \(ref 25 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/25)\)
 * **Feature:** Accelerometer: Implements a workaround for an Android issue that would cause the Accelerometer to switch X and Y directions on some landscape mode devices \(sync with MIT AI\)
-* **Feature:** Blocks editor Text drawer: Added an “is-text?” block to test whether a value is a string \(ref 26 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\)
+* **Feature:** Blocks editor Text drawer: Added an “is-text?” block to test whether a value is a string \(ref 26 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/26)\)
 
 ![](/assets/notifierMaterial.png)
 
