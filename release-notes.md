@@ -2,11 +2,12 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-
+---
 
 ![](/assets/ab_icon.png) Jan 28, 2018 [**Companion v4.01**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
-* **Feature:** Notifier - Updated ShowAlert to use fancy material design interface with images   \(ref 24 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\). 
+* **Feature:** Notifier - Updated ShowAlert to use fancy material design interface with images
+   \(ref 24 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\). 
   * Block also includes slot for showAtBottom. If true, displays at bottom or at center
   * Block also includes alertType \(1 through 6\) for different alert types
 * **Feature:** Notifier - Updated ShowChooseDialog to use fancy material design interface. 
@@ -17,13 +18,12 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Bug Fix:** Map FeatureCollection icon was not displaying during drag
 * **Feature:** ListViewCuston - Now includes ability to load images from SD Card \(ref 18 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/18)\)
 * **Feature:** WebViewer Added designer and block for opening a WebViewer in external browser \(ref 18 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/18)\)
-* **Feature:** Added color palette wheel to designer color property   \(ref 25 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\)
+* **Feature:** Added color palette wheel to designer color property
+   \(ref 25 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\)
 * **Feature:** Accelerometer: Implements a workaround for an Android issue that would cause the Accelerometer to switch X and Y directions on some landscape mode devices \(sync with MIT AI\)
 * **Feature:** Blocks editor Text drawer: Added an “is-text?” block to test whether a value is a string \(ref 26 [HERE](https://github.com/AppyBuilder/AppyBuilder/issues/24)\)
 
 ![](/assets/notifierMaterial.png)
-
- 
 
 ---
 
