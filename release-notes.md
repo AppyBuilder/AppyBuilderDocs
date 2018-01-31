@@ -4,7 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) Jan 31, 2018 [**Companion v4.02**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - should shortly be available in Play Store
+![](/assets/ab_icon.png) Jan 31, 2018 [**Companion v4.02**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 Updates to **Notifier component**. It now includes updated design and features:
 
