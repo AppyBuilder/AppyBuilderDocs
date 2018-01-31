@@ -4,6 +4,19 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png)Jan 31, 2018 **Companion v4.02**
+
+Updates to **Notifier component**. It now includes updated design and features:
+
+* Ability to include html tags
+* Ability to include hyperlinks
+* Ability to contain large amount of text with scrolling feature
+* Animation from top, side, bottom \(animationStyle 1 to 3\)
+
+![](/assets/notifier2.png)
+
+---
+
 ![](/assets/ab_icon.png) Jan 28, 2018 [**Companion v4.01**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature:** Notifier - Updated ShowAlert to use fancy material design interface with images
