@@ -58,7 +58,7 @@ Updates to **Notifier component**. It now includes updated design and features:
 
 **AppyBuilder needs your support:**
 
-[http://AppyBuilder.com/appybuildersupport.html](https://www.gitbook.com/book/appybuilder/reference/edit#)
+[http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
 
 ![](/assets/ab_icon.png) Dec 31, 2017 [**Companion v3.25**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
