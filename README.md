@@ -1,7 +1,3 @@
-# ![](/assets/Title.png)
-
----
-
 # AppyBuilder Introduction
 
 ![](/assets/frontpage.png)
