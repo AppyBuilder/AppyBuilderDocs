@@ -1,4 +1,4 @@
-# AppyBuilder Introduction
+# AppyBuilder
 
 ![](/assets/frontpage.png)
 
