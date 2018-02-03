@@ -4,6 +4,23 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png)Feb 02, 2018 Requires [**Companion v4.03**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+
+This release is to address updates for **Notifier** components. In addition, the Notifier **ShowChooseDialog** and **ShowMessageDialog** blocks can take _**animationTypes**_ of 1 to 4 for four different types of animation \(see below\). Any number greater than 4 means No-Animation:
+
+1. Animate from Top \(demo here: [http://AppyBuilder.com/tutorials/Notifier.gif](http://AppyBuilder.com/tutorials/Notifier.gif)\)
+2. Animate from Left \(_great for display Help screens_\)
+3. Animate from Right \(_great for display Help screens_\)
+4. Animate from Bottom
+
+_**The Notifier now:**_
+
+*  Resize \(shrink / grow\) automatically based on amount of text 
+* Resize automatically based on screen-orientation
+* Creates automatic vertical scrolling
+
+---
+
 ![](/assets/ab_icon.png) Jan 31, 2018 [**Companion v4.02**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 Updates to **Notifier component**. It now includes updated design and features:
