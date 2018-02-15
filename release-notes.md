@@ -4,9 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) _**Companion will be shortly be available in Google Play Store**_
-
-[![](/assets/donate2.png)](https://goo.gl/eKK5et)
+![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)   [![](/assets/donate2.png)](https://goo.gl/eKK5et)
 
 * **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
 * **Feature:** _**Web**_ component: Added _**UriDecode**_ block 
@@ -30,6 +28,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Enhancement:** _**Map**_: Use GeometryUtil for interpreting Map BoundingBox
 
 * **Bug fix:** Updated _**Notifier**_ so that calls for oneButtonAlert \(e.g. from FirebaseDB\), is now executed using the new style
+
 * **Bug fix:** _**LinedTextEdit**_: Fixed underline issue \(sorry, custom font still does not align properly\)
 * **Bug fix:** Previously building apps with FirebaseDB and Texting was caused build issue
 
