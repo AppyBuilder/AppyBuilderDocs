@@ -4,6 +4,28 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) _**Companion will be shortly be available in Google Play Store**_
+
+* **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
+* **Feature:** _**Web**_ component: Added _**UriDecode**_ block 
+* **Feature:**Added _**WallpaperManager**_ component \(Media\) allowing to:
+  * SetWallpaper - triggers _**AfterAction**_
+    * From assets - use //YourImage.png,
+    * From SD card - e.g. /SDfolder/YourImage.png
+
+    * From Internet - user http://example.com/some\_image.png
+
+    * From ImagePicker - use ImagePicker.Selection
+  * GetWallpaper - triggers _**AfterAction**_. You can use _**AfterAction**_ message parameter to get current path to wallpaper and set into Canvas or Image
+* **Feature:** _**Canvas**_: New properties / blocks for _**FontSize**_, _**FontBold**_, _**FontItalic**_, _**FontTypeface**_, _**FontTypefaceCustom**_. 
+  * These can be used for drawing text on Canvas
+* **Enhancement:** _**Map**_: Use GeometryUtil for interpreting Map BoundingBox
+* **Bug fix:** Updated _**Notifier**_ so that calls for oneButtonAlert \(e.g. from FirebaseDB\), is now executed using the new style
+* **Bug fix:** _**LinedTextEdit**_: Fixed underline issue \(sorry, custom font still does not align properly\)
+* **Bug fix:** Previously building apps with FirebaseDB and Texting was caused build issue
+
+---
+
 ![](/assets/ab_icon.png) Feb 02, 2018 Requires [**Companion v4.03**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 This release is to address updates for **Notifier** components. In addition, the Notifier **ShowChooseDialog** and **ShowMessageDialog** blocks can take _**animationTypes**_ of 1 to 4 for four different types of animation \(see below\). Any number greater than 4 means No-Animation:
