@@ -28,11 +28,12 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
   * These can be used for drawing text on Canvas
 
 * **Enhancement:** _**Map**_: Use GeometryUtil for interpreting Map BoundingBox
+
 * **Bug fix:** Updated _**Notifier**_ so that calls for oneButtonAlert \(e.g. from FirebaseDB\), is now executed using the new style
 * **Bug fix:** _**LinedTextEdit**_: Fixed underline issue \(sorry, custom font still does not align properly\)
 * **Bug fix:** Previously building apps with FirebaseDB and Texting was caused build issue
 
-![](/assets/fooRelease.png)
+![](/assets/fooRelease2.png)
 
 ---
 
