@@ -4,6 +4,21 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png) March 05, 2018 - Requires **Companion v4.05 **![](/assets/donate2.png)
+
+* **Feature**: Added **Spacer** Visible component. Can be used to add Space \(filler / gap\) between components
+* **Feature**: Added **Break** block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)
+* **Feature**: Designer drag and drop - useful when using mobile
+* **Feature**: **Web** - Added _UriDecode_ block
+* **Enhancement**: **Notifier** - Updated so that title background to be white - applies to _ShowChooseDialog_ and _ShowMessageDialog_
+* **Bug fix**: **Companion** - Updates so that companion would run on Android 4.x
+* **Feature**: **Button** - Added _PerformClick_ to dynamically simulate clicking the Button
+* **Feature**: **Image** - Added _ImageEffect_ block. Allows for _applying_ effects such as invert, binary, blue, brown, bw, green, pink, red, sepia
+* **Feature**: Image - Added _ApplyShape_ block. Allows for applying shapes such as circle, octagon, star, triangle
+* **Bug fix**: Fixed the broken _**Donate**_ link at top of AppyBuilder page
+
+---
+
 ![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)   [![](/assets/donate2.png)](https://goo.gl/eKK5et)
 
 * **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
@@ -30,6 +45,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Bug fix:** Updated _**Notifier**_ so that calls for oneButtonAlert \(e.g. from FirebaseDB\), is now executed using the new style
 
 * **Bug fix:** _**LinedTextEdit**_: Fixed underline issue \(sorry, custom font still does not align properly\)
+
 * **Bug fix:** Previously building apps with FirebaseDB and Texting was caused build issue
 
 ![](/assets/fooRelease2.png)
