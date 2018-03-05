@@ -7,9 +7,9 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 ![](/assets/ab_icon.png) March 05, 2018 - Requires [**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)** **![](/assets/donate2.png)
 
 * **Feature**: Added **Spacer** Visible component. Can be used to add Space \(filler / gap\) between components
-* **Feature**: Added **Break** block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)
+* **Feature**: Added **Break** ![](/assets/break2.png) block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)
 * **Feature**: Designer drag and drop - useful when using mobile
-* **Feature**: **Web** - Added _UriDecode_ block
+* **Feature**: **Web** - Added _UriDecode_ block 
 * **Enhancement**: **Notifier** - Updated so that title background to be white - applies to _ShowChooseDialog_ and _ShowMessageDialog_
 * **Bug fix**: **Companion** - Updates so that companion would run on Android 4.x
 * **Feature**: **Button** - Added _PerformClick_ to dynamically simulate clicking the Button
