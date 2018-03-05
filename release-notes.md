@@ -4,7 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) March 05, 2018 - Requires **Companion v4.05 **![](/assets/donate2.png)
+![](/assets/ab_icon.png) March 05, 2018 - Requires [**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)** **![](/assets/donate2.png)
 
 * **Feature**: Added **Spacer** Visible component. Can be used to add Space \(filler / gap\) between components
 * **Feature**: Added **Break** block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)
