@@ -16,6 +16,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Feature**: **Image** - Added _ImageEffect_ block. Allows for _applying_ effects such as invert, binary, blue, brown, bw, green, pink, red, sepia
 * **Feature**: Image - Added _ApplyShape_ block. Allows for applying shapes such as circle, octagon, star, triangle
 * **Bug fix**: Fixed the broken _**Donate**_ link at top of AppyBuilder page
+* **Updated** Terms of Service [HERE](https://help.appybuilder.com/terms-of-service.html)
 
 ---
 
