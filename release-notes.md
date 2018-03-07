@@ -4,7 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) March 07, 2018 - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) ![](/assets/donate2.png)
+![](/assets/ab_icon.png) _**March 07, 2018**_ - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) ![](/assets/donate2.png)
 
 * Release fixes the the bugs we have been experiencing with below release v4.05 below
 
@@ -20,13 +20,14 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Bug fix**: **Companion** - Updates so that companion would run on Android 4.x
 * **Feature**: **Button** - Added _PerformClick_ to dynamically simulate clicking the Button
 * **Feature**: **Image** - Added _ImageEffect_ block. Allows for _applying_ effects such as invert, binary, blue, brown, bw, green, pink, red, sepia
-* **Feature**: Image - Added _ApplyShape_ block. Allows for applying shapes such as circle, octagon, star, triangle
+* **Feature**: **Image** - Added _ApplyShape_ block. Allows for applying shapes such as circle, octagon, star, triangle
+* **Feature: Screen**: Added block: SetTitleBarCustomFont for changing titlebar font ![](/assets/titlebarCustomFont.png)
 * **Bug fix**: Fixed the broken _**Donate**_ link at top of AppyBuilder page
 * **Updated** Terms of Service [HERE](https://help.appybuilder.com/terms-of-service.html)
 
 ---
 
-![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)   
+![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
 * **Feature:** _**Web**_ component: Added _**UriDecode**_ block 
