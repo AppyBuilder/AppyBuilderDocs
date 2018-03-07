@@ -19,8 +19,8 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Enhancement**: **Notifier** - Updated so that title background to be white - applies to _ShowChooseDialog_ and _ShowMessageDialog_
 * **Bug fix**: **Companion** - Updates so that companion would run on Android 4.x
 * **Feature**: **Button** - Added _PerformClick_ to dynamically simulate clicking the Button
-* **Feature**: **Image** - Added _ImageEffect_ block. Allows for _applying_ effects such as invert, binary, blue, brown, bw, green, pink, red, sepia
-* **Feature**: **Image** - Added _ApplyShape_ block. Allows for applying shapes such as circle, octagon, star, triangle
+* **Feature**: **Image** - Added _ImageEffect_ block. Allows for _applying_ effects such as _invert, binary, blue, brown, bw, green, pink, red, sepia_
+* **Feature**: **Image** - Added _ApplyShape_ block. Allows for applying shapes such as _circle, octagon, star, triangle_
 * **Feature: Screen**: Added block: SetTitleBarCustomFont for changing titlebar font ![](/assets/titlebarCustomFont.png)
 * **Bug fix**: Fixed the broken _**Donate**_ link at top of AppyBuilder page
 * **Updated** Terms of Service [HERE](https://help.appybuilder.com/terms-of-service.html)
