@@ -4,10 +4,16 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) March 05, 2018 - Requires [**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)** **![](/assets/donate2.png)
+![](/assets/ab_icon.png) March 07, 2018 - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) ![](/assets/donate2.png)
+
+* Release fixes the the bugs we have been experiencing with below release v4.05 below
+
+---
+
+![](/assets/ab_icon.png) March 05, 2018 - Requires [**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)**  Rel v4.05**
 
 * **Feature**: Added **Spacer** Visible component. Can be used to add Space \(filler / gap\) between components
-* ~~**Feature**: Added **Break** ~~![](/assets/break2.png)~~ block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)~~
+* Feature: Added Break ![](/assets/break2.png) block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor \(_Thanks Professor Hal Abelson_\)
 * **Feature**: Designer drag and drop - useful when using mobile
 * **Feature**: **Web** - Added _UriDecode_ block 
 * **Enhancement**: **Notifier** - Updated so that title background to be white - applies to _ShowChooseDialog_ and _ShowMessageDialog_
@@ -20,7 +26,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)   [![](/assets/donate2.png)](https://goo.gl/eKK5et)
+![](/assets/ab_icon.png) Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)   
 
 * **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
 * **Feature:** _**Web**_ component: Added _**UriDecode**_ block 
