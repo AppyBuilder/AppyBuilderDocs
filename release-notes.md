@@ -4,7 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) _**March 07, 2018**_ - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) ![](/assets/donate2.png)
+![](/assets/ab_icon.png) _**March 07, 2018**_ - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) [![](/assets/donate2.png)](https://goo.gl/HcrNVa)
 
 * Release fixes the the bugs we have been experiencing with below release v4.05 below
 
