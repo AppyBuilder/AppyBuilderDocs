@@ -99,6 +99,8 @@ Writes a warning message to the Android log. See the Google Android documentatio
 
 Display a temporary notification. The Notifier Alert can have alertType \(Style\) as argument. The alertType can be values between 1 to 6:
 
+![](/assets/notifierAlert2.png)
+
 ![](/assets/notifier.png)
 
 #### ShowChooseDialog\(text message, text title, text button1Text, text button2Text, boolean cancelable\)
