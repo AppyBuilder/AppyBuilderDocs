@@ -6,3 +6,5 @@ Originally based on MIT App Inventor, AppyBuilder is a fully browser-based Drag 
 
 ![](/assets/intro-1.png)
 
+`No part of this document may be reproduced in any form or by any means, electronic or mechanical without prior written permission of AppyBuilder LLC - Copyright © 2018 AppyBuilder LLC - All Rights Reserved`
+
