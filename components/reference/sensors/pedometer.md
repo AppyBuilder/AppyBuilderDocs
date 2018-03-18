@@ -1,6 +1,6 @@
 # Pedometer
 
-A Component that acts like a Pedometer. It senses motion via the Accerleromter and attempts to determine if a step has been taken. Using a configurable stride length, it can estimate the distance traveled as well.
+A Component that acts like a Pedometer. It senses motion via the Accerlerometer and attempts to determine if a step has been taken. Using a configurable stride length, it can estimate the distance traveled as well.
 
 ---
 
