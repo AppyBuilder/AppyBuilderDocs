@@ -2,7 +2,7 @@
 
 This component can be used to provide information about network. The blocks for this component are as follows:
 
-**IsConnected: **Use this block to determine if device has network connectivity. Will return true if connection is through WiFi or Mobile Network
+**IsConnected**: Use this block to determine if device has network connectivity. Will return true if connection is through WiFi or Mobile Network
 
 ![](/assets/networkMgr1.png)
 
