@@ -4,9 +4,9 @@ A component that can launch an activity using the `StartActivity` method.
 
 Activities that can be launched include:
 
-* Starting another App Inventor for Android app. To do so, first      find out the _class_ of the other application by downloading the source code and using a file explorer or unzip utility to find a file named "youngandroidproject/project.properties".
+* Starting another AppyBuilder app. To do so, first find out the _class_ of the other application by downloading the source code and using a file explorer or unzip utility to find a file named "youngandroidproject/project.properties".
 
-   The first line of the file will start with "main=" and be followed by the class name; for example, `main=com.makeroid.pavitra.HelloWorld.Screen1`.
+   The first line of the file will start with "main=" and be followed by the class name; for example, `main=com.appybuilder.pmathijssen.MaterialDesignColorPalette.Screen1`.
    
    To make your `ActivityStarter` launch this application, set the      following properties:
    
