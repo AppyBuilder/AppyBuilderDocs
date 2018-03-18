@@ -1,1 +1,1 @@
-# MagnetidFieldSensor
+# MagneticFieldSensor
