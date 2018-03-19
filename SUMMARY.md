@@ -2,6 +2,7 @@
 
 * [AppyBuilder Introduction](README.md)
 * [Release Notes](release-notes.md)
+* [Terms of Service](terms-of-service.md)
 * [AppyBuilder Editors](editors.md)
   * [Design Editor](editors/designeditor.md)
   * [Blocks Editor](editors/blocks-editor.md)
@@ -157,7 +158,6 @@
   * [keystore](keystore.md)
   * [Firebase - Advanced](firebase-advanced.md)
 * [Extensions](extensions.md)
-* [Terms of Service](terms-of-service.md)
 * [Concept Cards](concept-cards.md)
   * [Bouncing Sprites](bouncing-sprites.md)
   * [Sprite Timed Movement](sprite-timed-movement.md)
