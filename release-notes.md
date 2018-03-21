@@ -8,7 +8,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 * **Bug fix** - **Spacer** - Updated component to remove background color. Color is light gray
 * **Bug fix** - **ObfuscatedText** - was causing build issue.
-* **Feature** - Spinner: Added selection index to list of arguments in the AfterSelection block
+* **Feature** - **Spinner**: Added selection index to list of arguments in the **AfterSelection** block
 * **Enhancement** - Notifier.**ShowChooseDialog**. Added a block called **TitleImage** that can point to an asset image \(size of up to 150x150\). If used, then **ShowChooseDialog** will display the image next to tile. If image is invalid \(or blank\), then no image
 * **Enhancement** - Notifier.**ShowMessageDialog**. Added a block called TitleImage that can point to an asset image \(size of up to 150x150\). If used, then ShowMessageDialog will display the image next to tile. If image is invalid \(or blank\), then no image
 * **Enhancement** - Notifier - **ShowProgressDialog** - Updated for Material Design look & feel
@@ -21,11 +21,9 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](/assets/notifier3.png)
 
-
-
 ---
 
-![](/assets/ab_icon.png) _**March 07, 2018**_ - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) 
+![](/assets/ab_icon.png) _**March 07, 2018**_ - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * Release fixes the the bugs we have been experiencing with below release v4.05 below
 
