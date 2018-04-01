@@ -1,8 +1,8 @@
 # AppyBuilder Terms of Service
 
-**Last updated: February 23, 2018**
+**Last updated: April 01, 2018**
 
-Welcome to AppyBuilder's website \(the "Site"\) http://AppyBuilder.com and its platforms \(such as http://gold.AppyBuilder.com\), collectively referred to as "Services". The Services runs on Google's App Engine service. You must read and agree to these Terms of Service and Privacy Policy \(collectively, the "Terms"\) prior to using any portion of this Services. These Terms are an agreement between you and AppyBuilder. If you do not understand or do not agree to be bound by these Terms, please immediately exit and contact us at http://info@AppyBuilder.com.
+Welcome to AppyBuilder's website \(the "Site"\) [http://AppyBuilder.com](http://AppyBuilder.com) and its platforms \(such as [http://gold.AppyBuilder.com\](http://gold.AppyBuilder.com\)\), collectively referred to as "Services". The Services runs on Google's App Engine service. You must read and agree to these Terms of Service and Privacy Policy \(collectively, the "Terms"\) prior to using any portion of this Services. These Terms are an agreement between you and AppyBuilder. If you do not understand or do not agree to be bound by these Terms, please immediately exit and contact us at [http://info@AppyBuilder.com](http://info@AppyBuilder.com).
 
 AppyBuiler reserves the right to modify these Terms at any time and will publish notice of any such modifications online on this page for a reasonable period of time following such modifications, and by changing the effective date of these Terms. By continuing to access the Site after notice of such changes have been posted, you signify your agreement to be bound by them. Be sure to return to this page periodically to ensure familiarity with the most current version of these Terms.
 
@@ -27,6 +27,16 @@ AppyBuilder may collect and analyze data and other information relating to the p
 In addition, AppyBuilder may collect and analyze anonymized, de-identified information relating to use of Your App by your users \(“**Customer Analytics Data**”\), in order to improve its products and services and for other reasonable internal business purposes and aggregate such anonymized, de-identified information with anonymized, de-identified information of its other users for purposes of creating and distributing case studies industry reports and for conducting research and development efforts in connection with and improving its products and services; provided that, the information does not, and could not reasonably be used to, relate back to or identify you or your user. You hereby grant us the right to: \(i\) add analytics plug-ins of our third party analytics service providers in Your App to allow them to collect Customer Analytics Data on behalf of AppyBuilder, and \(ii\) collect Customer Analytics Data as provided herein. You agree that your privacy policy will \(a\) clearly indicate that you use third party services providers, like and including, AppyBuilder, in order to make Your App\(s\) available, and that such third party services providers will have access to and will use such customer information in order to improve Services, and \(b\) clearly indicate that certain of your third party partners, like and including AppyBuilder, will have access to and will use your customer information on an aggregate and anonymized basis, for industry analysis, demographic profiling, and other purposes.
 
 As between you and AppyBuilder, you agree that AppyBuilder owns all right, title and interest in and to the Services Analytics Data and Customer Analytics Data collected by or on behalf of AppyBuilder.
+
+
+
+### The Digital Millennium Copyright Act \("DMCA"\)
+
+We respect copyright law and expects our users to do the same. It is AppyBuilder's policy to terminate in appropriate circumstances Account holders who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders. 
+
+### Pricing and Payment
+
+Currently, AppyBuilder is free for all users to use. However, we reserve the right to change the amount or the basis of determining, any charges or fees and to institute new charges or fees. If decision is made to do so, we will provide notice in AppyBuilder forum community [HERE](http://Community.AppyBuilder.com) at least 14 days before charging any fees.
 
 ### Disclaimer of Warranty / Indemnification / Limitation of Liabilities
 
