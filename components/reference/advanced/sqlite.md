@@ -10,23 +10,23 @@ SQLite component is a non-visible component that has blocks that you see in imag
 * DropTable - used to drop an existing table
 * DisplayTables - displays all table names within the current database
 
-![](/assets/book-sqlite1.png)
+![](../../../.gitbook/assets/book-sqlite1.png)
 
 In our sample app, we will add ability to create table, insert data, read data, drop table. First, we will create a table that has 4 columns of type varchar:
 
-![](/assets/book-sqlite3.png)
+![](../../../.gitbook/assets/book-sqlite3.png)
 
 Next, we will insert some test-data into this table. Notice from image below:
 
-![](/assets/book-sqlite4.png)
+![](../../../.gitbook/assets/book-sqlite4.png)
 
 Now, we will query data to display result. The result will be in form of a LIST where 1st row will be the column headings.
 
-![](/assets/book-sqlite5.png)
+![](../../../.gitbook/assets/book-sqlite5.png)
 
 If you wish to eliminate the column heading, just get the values starting from 2nd element of the LIST:
 
-![](/assets/book-sqlite6.png)
+![](../../../.gitbook/assets/book-sqlite6.png)
 
 Use link below to get .aia that can be loaded and test using [http://Gold.AppyBuilder.com](http://Gold.AppyBuilder.com)
 

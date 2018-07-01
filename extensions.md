@@ -10,5 +10,3 @@ See links below for list and discussions on extensions:
 
 [http://community.appybuilder.com/search?q=extension](http://community.appybuilder.com/search?q=extension)
 
-
-
