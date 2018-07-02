@@ -37,17 +37,7 @@ Currently, the USB option only works for Windows OS.
 
   . This is a compressed zip file. After download, please extract and run the .msi installer app. This installer package that includes the files required connect your device, through USB to your Windows computer. Run the setup. The setup will install the files onto "
 
-  **C:**
-
-  **\Program Files** 
-
-  **\(**
-
-  **x86**
-
-  **\)**
-
-  **\AppyBuilder Starter"**
+  **C:\Program Files \(x86\)\AppyBuilder Starter"**
 
    folder. It will also place "AppyBuilder Starter" shortcut on your Desktop: 
 

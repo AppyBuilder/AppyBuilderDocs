@@ -40,23 +40,15 @@ _**March 20, 2018**_  - Requires [**Companion v4.07**](https://play.google.com/s
 
 ![](.gitbook/assets/notifier3.png)
 
-![](.gitbook/assets/ab_icon%20%2818%29.png)
+![](.gitbook/assets/foo.png)
 
-_**March 07, 2018**_
-
- - Requires 
-
-[**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+_**March 07, 2018**_  - Requires [**Companion v4.06**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * Release fixes the the bugs we have been experiencing with below release v4.05 below
 
-![](.gitbook/assets/ab_icon%20%2812%29.png)
+![](.gitbook/assets/foo.png)
 
- March 05, 2018 - Requires 
-
-[**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
-
- **Rel v4.05**
+ March 05, 2018 - Requires [**Companion v4.05**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature**: Added **Spacer** Visible component. Can be used to add Space \(filler / gap\) between components
 * Feature: Added Break 
@@ -65,11 +57,7 @@ _**March 07, 2018**_
 
    block. This block can be used to break out of a loop. Available in the Control-drawer of Blocks-Editor 
 
-  \(
-
-  _Thanks Professor Hal Abelson_
-
-  \)
+  \(_Thanks Professor Hal Abelson_\)
 
 * **Feature**: Designer drag and drop - useful when using mobile
 * **Feature**: **Web** - Added _UriDecode_ block 
@@ -87,11 +75,9 @@ _**March 07, 2018**_
 * **Bug fix**: Fixed the broken _**Donate**_ link at top of AppyBuilder page
 * **Updated** Terms of Service [HERE](https://help.appybuilder.com/terms-of-service.html)
 
-![](.gitbook/assets/ab_icon%20%2814%29.png)
+![](.gitbook/assets/foo.png)
 
- Feb 14, 2018 - Requires 
-
-[**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+ Feb 14, 2018 - Requires [**Companion v4.04**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature:** _**Toggler**_ Component, added _**TextColor**_ and _**FontSize**_
 * **Feature:** _**Web**_ component: Added _**UriDecode**_ block 
@@ -111,11 +97,11 @@ _**March 07, 2018**_
 
 ![](.gitbook/assets/foorelease2.png)
 
-![](.gitbook/assets/ab_icon%20%281%29.png)
 
- Feb 02, 2018 Requires 
 
-[**Companion v4.03**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+![](.gitbook/assets/foo.png)
+
+ Feb 02, 2018 Requires [**Companion v4.03**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 This release is to address updates for **Notifier** components. In addition, the Notifier **ShowChooseDialog** and **ShowMessageDialog** blocks can take _**animationTypes**_ of 1 to 4 for four different types of animation \(see below\). Any number greater than 4 means No-Animation:
 
@@ -130,11 +116,9 @@ This release is to address updates for **Notifier** components. In addition, the
 * Resize automatically based on screen-orientation
 * Creates automatic vertical scrolling
 
-![](.gitbook/assets/ab_icon%20%2821%29.png)
+![](.gitbook/assets/foo.png)
 
- Jan 31, 2018 
-
-[**Companion v4.02**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+ Jan 31, 2018 Requires [**Companion v4.02**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 Updates to **Notifier component**. It now includes updated design and features:
 
@@ -145,11 +129,9 @@ Updates to **Notifier component**. It now includes updated design and features:
 
 ![](.gitbook/assets/notifier2.png)
 
-![](.gitbook/assets/ab_icon%20%2811%29.png)
+![](.gitbook/assets/foo.png)
 
- Jan 28, 2018 
-
-[**Companion v4.01**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+ Jan 28, 2018 - Requires [**Companion v4.01**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature:** Notifier - Updated ShowAlert to use fancy material design interface with images
 
@@ -175,11 +157,9 @@ Updates to **Notifier component**. It now includes updated design and features:
 
 ![](.gitbook/assets/notifiermaterial.png)
 
-![](.gitbook/assets/ab_icon%20%2816%29.png)
+![](.gitbook/assets/foo.png)
 
- Jan 16, 2018 
-
-[**Companion v3.26**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+ Jan 16, 2018 - Requires [**Companion v3.26**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **CloudDB** Component: New. EXPERIMENTAL -  Integrated CloudDB, allowing you to store / retrieve data from cloud server
 * **Slider**: Fixed bug. When ThumbEnabled was set to false, Slider Thumb was disappearing 
