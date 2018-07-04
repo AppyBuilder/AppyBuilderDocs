@@ -22,7 +22,7 @@ You can use the cheatsheet here for the icons:
 https://fontawesome.com/cheatsheet
 
 **A little tip:**
-If you use an arrangement or use the webviewer at 100% or fill parent the sidebar will not show. There has to be some background available. So i set the webviewer at 95% width to make it work.
+If you use an arrangement or use the webviewer at 100% or fill parent the sidebar will not show. There has to be some background available. So set the webviewer to a width of 95% for instance to make it work.
 
 In the aia file there is a fontfile included, 3 html files, an image, a css file and the TaifunTools extension.
 
