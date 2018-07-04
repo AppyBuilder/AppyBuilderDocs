@@ -24,7 +24,7 @@ https://fontawesome.com/cheatsheet
 **A little tip:**
 If you use an arrangement or use the webviewer at 100% or fill parent the sidebar will not show. There has to be some background available. So i set the webviewer at 95% width to make it work.
 
-In the aia file there is a fontfile included, 3 html files, a css file and the TaifunTools extension.
+In the aia file there is a fontfile included, 3 html files, an image, a css file and the TaifunTools extension.
 
 Download by clicking on the link [LoremIpsum.aia](https://github.com/AppyBuilder/AppyBuilderDocs/raw/master/.gitbook/assets/LoremIpsum.aia)
 
