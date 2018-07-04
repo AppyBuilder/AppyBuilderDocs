@@ -2,9 +2,7 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-![](.gitbook/assets/ablogo.png)
-
-  **July 1st, 2018** - Requires Companion [version 5.01](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) -  _**NOTE: This version will be available shortly in Google Play Store**_
+  ![](.gitbook/assets/ablogo2.png) **July 1st, 2018** - Requires Companion [version 5.01](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature** - Added new _**Snackbar**_ component. This component is available in Effects category
 * **Feature** - Added new _**Sidebar**_ component. This component is available in Effects  category
@@ -23,7 +21,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](.gitbook/assets/foo.png)
 
-_**March 20, 2018**_  - Requires [**Companion v4.07**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+![](.gitbook/assets/ablogo2%20%281%29.png) _**March 20, 2018**_  - Requires [**Companion v4.07**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Bug fix** - **Spacer** - Updated component to remove background color. Color is light gray
 * **Bug fix** - **ObfuscatedText** - was causing build issue.
