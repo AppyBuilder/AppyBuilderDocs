@@ -4,7 +4,7 @@ If you want to make an e-book you just need a few components, see the image belo
 
 ![](../.gitbook/assets/ebook2.png)
 
-You can get the TaifunTools extension here: ![](https://puravidaapps.com/tools.php)
+You can get the TaifunTools extension here: [https://puravidaapps.com/tools.php](https://puravidaapps.com/tools.php)
 
 And the following blocks. No fancy formula, just straight forward. 
 
@@ -26,4 +26,5 @@ If you use an arrangement or use the webviewer at 100% or fill parent the sideba
 
 In the aia file there is a fontfile included, 3 html files, a css file and the TaifunTools extension.
 
-![](../.gitbook/assets/LoremIpsum.aia)
+[LoremIpsum.aia](../.gitbook/assets/LoremIpsum.aia)
+
