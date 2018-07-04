@@ -26,5 +26,5 @@ If you use an arrangement or use the webviewer at 100% or fill parent the sideba
 
 In the aia file there is a fontfile included, 3 html files, a css file and the TaifunTools extension.
 
-[LoremIpsum.aia](../.gitbook/assets/LoremIpsum.aia)
+Download by clicking on the link [LoremIpsum.aia](https://github.com/AppyBuilder/AppyBuilderDocs/raw/master/.gitbook/assets/LoremIpsum.aia)
 
