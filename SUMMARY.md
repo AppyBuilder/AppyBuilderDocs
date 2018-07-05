@@ -143,7 +143,7 @@
 * [Tutorials](tutorials/README.md)
   * [Openstreet Map](tutorials/openstreet-map.md)
   * [OneSignalPush](tutorials/onesignalpush.md)
-  * [Creating E-book](tutorials/creating-ebook.md)
+  * [Creating E-book](tutorials/creating-e-book.md)
   * [Basic](tutorials/basic/README.md)
     * [Simulating Progress Bar](tutorials/basic/simulating-progress-bar.md)
     * [Creating Splash Screen](tutorials/basic/creating-splash-screen.md)

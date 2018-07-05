@@ -1,10 +1,10 @@
-# Creating EBook
+# Creating E-book
 
 ## Creating an E-book
 
 ![Contributed by: Peter Mathijseen](../.gitbook/assets/image%20%281%29.png)
 
-This tutorial written by [Peter Mathijseen](http://community.appybuilder.com/u/peter_mathijssen/summary), shows you how to create an E-book using just a few Components - see the image below.
+This tutorial written by [Peter Mathijssen](http://community.appybuilder.com/u/peter_mathijssen/summary), shows you how to create an E-book using just a few Components - see the image below. 
 
 [![](https://github.com/AppyBuilder/AppyBuilderDocs/raw/e650a412a497d2a2b3ce46ffd42ce115804b888d/.gitbook/assets/ebook2.png)](https://github.com/AppyBuilder/AppyBuilderDocs/blob/e650a412a497d2a2b3ce46ffd42ce115804b888d/.gitbook/assets/ebook2.png)
 
