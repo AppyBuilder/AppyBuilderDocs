@@ -179,4 +179,6 @@
   * [Shaking Phone](concept-cards/shaking-phone.md)
   * [Collision Detection](concept-cards/collision-detection.md)
   * [Dragging A Sprite](concept-cards/dragging-a-sprite.md)
+* [Advanced](advanced/README.md)
+  * [Source File Structure](advanced/source-file-structure.md)  
 
