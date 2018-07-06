@@ -34,7 +34,9 @@ We respect copyright law and expects our users to do the same. It is AppyBuilder
 
 ## Pricing and Payment
 
-Currently, AppyBuilder is free for all users to use. However, we reserve the right to change the amount or the basis of determining, any charges or fees and to institute new charges or fees. If decision is made to do so, we will provide notice in AppyBuilder forum community [HERE](http://Community.AppyBuilder.com) at least 14 days before charging any fees.
+AppyBuilder is free for all users to use. However, we reserve the right to change the amount or the basis of determining, any charges or fees and to institute new charges or fees. If decision is made to do so, we will provide notice in AppyBuilder forum community [HERE](http://Community.AppyBuilder.com) at least 14 days before charging any fees. 
+
+Note: If Monetization components are used, AppyBuilder takes a 5% commission from the monetization revenue.
 
 ## Disclaimer of Warranty / Indemnification / Limitation of Liabilities
 
