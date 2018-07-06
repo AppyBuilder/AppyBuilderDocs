@@ -10,7 +10,7 @@ You can setup a headerImage and a list of icons from [here](https://fontawesome.
 
 **Creating Sidebar.** You can create a Sidebar menu by following block, there are app's main options in the left edge of screen. The Sidebar is visible if user swipes a finger from left edge of screen.  
 
-HeaderImagePath could be added from asset folder or point to the Internet or even you can leave it empty. Notice that for ListItems , it provides a CSV of items, and fro ListIcons, it provides a CSV of icons from [here](https://fontawesome.com/cheatsheet)
+HeaderImagePath could be added from asset folder or point to the Internet or even you can leave it empty. Notice that for ListItems , it provides a CSV of items, and for ListIcons, it provides a CSV of icons from [here](https://fontawesome.com/cheatsheet)
 
 ![](../../../.gitbook/assets/image%20%289%29.png)
 
