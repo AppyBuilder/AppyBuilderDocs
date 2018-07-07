@@ -9,7 +9,7 @@ Note: _Some text used and adapted from_
 
 AppyBuilder allows users to download the project files \(or source file\) for their projects, which can then be reloaded. The structure will look something like this:
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 The assets folders hold all files that have been uploaded to the project as an asset. If no assets are associated with a project then there will be no assets folder.  
 If you import an extension a folder named external\_comps will be created inside the assets folder. The extension will be uploaded to the external\_comps folder. There will be a folder created inside the external\_comps folder for every extension.
