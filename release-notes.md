@@ -12,7 +12,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Feature** - _GoogleSpreadsheet_. Added new Google Spreadsheet component. This component uses [Cloudstich](https://cloudstitch.com) and is available in Storage category
 * **Bug fix** - Fixed orientation issue with _FloatingButtonAction_. Thanks to Ken Nichols for his contribution and effort to fix the orientation issue
 * **Feature** - Updated _BarcodeScanner_ to include ability to scan a variety of barcodes \(e.g. UPC\_A, UPC\_E, EAN\_13, EAN\_8, RSS\_14, RSS\_EXPANDED, DATA\_MATRIX\). For detail barcode types, please visit page [HERE](https://www.scandit.com/types-barcodes-choosing-right-barcode/). Thanks to Ken Nichols for his contribution to add this feature
-* **Feature** - Added DrawShape & DrawArc into _Canvas_ component. Thanks to ColinTree for his contribution and efforts 
+* **Feature** - Added DrawShape & DrawArc into _Canvas_ component. Thanks to [ColinTree](https://github.com/ColinTree) for his contribution and efforts 
 * **Feature** - _Copy Scree_n. You now have ability to create a copy of any screen. Thanks to Punya for their contribution 
 * **Feature** - _Export Screen_. You now have ability to export a specific Screen so that it can be imported into another project. This option is available from 'Projects' menu. Thanks to Punya for their contribution.
 * **Feature** - _Import Screen_. You now have ability to import a screen that was exported using "Export Screen\) Screen so that it can be imported into another project. This option is available from 'Projects' menu
