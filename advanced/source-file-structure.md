@@ -9,7 +9,7 @@ Note: _Some text used and adapted from_
 
 AppyBuilder allows users to download the project files \(or source file\) for their projects, which can then be reloaded. The structure will look something like this:
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 The assets folders hold all files that have been uploaded to the project as an asset. If no assets are associated with a project then there will be no assets folder.  
 If you import an extension a folder named external\_comps will be created inside the assets folder. The extension will be uploaded to the external\_comps folder. There will be a folder created inside the external\_comps folder for every extension.
@@ -18,7 +18,7 @@ The src/com/appybuilder/\[username\]/\[example\] folder holds a .blk file and a 
 
 The youngandroidproject folder holds only one file, the project.properties file. This file holds basic information about the project, such as name, main screen and file structure
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 The new option of importing and exporting screens gives another fileformat. It’s extension is SCR and you can see the filestructure above. You can see that extensions and assets are not exported with the file.
 
