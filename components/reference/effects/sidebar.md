@@ -26,3 +26,5 @@ HeaderImagePath could be added from asset folder or point to the Internet or eve
 
 ![](../../../.gitbook/assets/image%20%2819%29.png)
 
+**Tutorial.** Please check-out e-Book tutorial [HERE](https://help.appybuilder.com/tutorials/creating-e-book).
+
