@@ -22,11 +22,7 @@ From Monetize category, drag-and-drop AdMobInterstitial onto layout screen
 
 Select this component and for its designer AdUnitId, enter your AdUnitId. 
 
-_**NOTE: For testing, you should use TEST AdUnitId. See link**_ 
-
-[_**HERE**_ ](https://developers.google.com/admob/android/test-ads)
-
-_**for these IDs.**_ 
+_**NOTE: For testing, you should use TEST AdUnitId. See link**_  [_**HERE**_ ](https://developers.google.com/admob/android/test-ads) _**for these IDs.**_ 
 
 ![](../../.gitbook/assets/bookadmob1.png)
 
