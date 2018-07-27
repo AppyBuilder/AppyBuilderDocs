@@ -26,7 +26,7 @@ You can use the cheatsheet here for the icons: [https://fontawesome.com/cheatshe
 
 In the aia file there is a fontfile included, 3 html files, an image, a css file and the TaifunTools extension.
 
-Download by clicking on the link [LoremIpsum.aia](https://github.com/AppyBuilder/AppyBuilderDocs/raw/master/.gitbook/assets/LoremIpsum.aia)
+Download by clicking on the link LoremIpsum.aia
 
 
 
