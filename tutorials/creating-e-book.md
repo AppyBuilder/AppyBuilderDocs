@@ -2,7 +2,7 @@
 
 ## reating an E-book
 
-![Contributed by: Peter Mathijseen](../.gitbook/assets/image%20%2838%29.png)
+![Contributed by: Peter Mathijseen](../.gitbook/assets/image%20%2839%29.png)
 
 This tutorial written by [Peter Mathijssen](http://community.appybuilder.com/u/peter_mathijssen/summary), shows you how to create an E-book using just a few Components - see the image below. 
 
@@ -14,11 +14,11 @@ You can get the TaifunTools extension here: [https://puravidaapps.com/tools.php]
 
 And the result will be
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 The html-files use a small css file for formatting the text. But you can play with that.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 You can use the cheatsheet here for the icons: [https://fontawesome.com/cheatsheet](https://fontawesome.com/cheatsheet)
 

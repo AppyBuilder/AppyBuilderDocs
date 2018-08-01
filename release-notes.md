@@ -2,6 +2,17 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+![](.gitbook/assets/image%20%2828%29.png) **July 31st, 2018** Requires [Companion version 5.02](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+
+* **Feature:** Updates for **target SDK 26** 
+* **Feature:** Per **European GDPR** requirement, AdMob components now have blocks to get user consent
+* **Feature:** For **AdMob** components, now includes ability to set personalized ads using SetConsent block 
+* **Feature:** Runtime permissions. Starting Aug 1st, Google requires that app-users have to specifically grant permission for dangerous PERMISSIONS. Dangerous permissions are like Camera, ContactPicker, Texting, PhoneCall, SoundRecorder, Reading / Writing to external storage \(File, Image\). AppyBuilder now checks to see if app uses these permissions \(e.g. Texting\). If yes, then it will automatically pop-up a dialog, asking user to grant permission.  
+* **Feature:** Ability to request app-user to grant all permissions use Screen1.RequestAppPermissions block. This will be useful for extension developers. 
+* **UI / UX:** Updated user interface - Thanks to [Turbo\_Programming](https://community.appybuilder.com/u/turboprogramming/summary) for his country-flag and UI style contribution
+
+![](.gitbook/assets/foo.png)
+
   ![](.gitbook/assets/ablogo2.png) **July 1st, 2018** - Requires Companion [version 5.01](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature** - Added new _**Snackbar**_ component. This component is available in Effects category

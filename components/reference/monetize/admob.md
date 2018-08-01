@@ -1,10 +1,8 @@
 # AdMob
 
-In this tutorial, we'll show you how to easily monetize your apps using **AdMob** component. The AdMob component is for creating Banner Ads.
+AdMob component allows you to easily montize your app using only drag-and-drop! The AdMob component is for creating Banner Ads. 
 
-## Assumption:
-
-You have already created an AdMob AdUnitId. If you haven't, please follow Steps 1-6 from source [HERE](https://quickappninja.zendesk.com/hc/en-us/articles/115000826865-How-to-create-Banner-Admob-Ad-unit-ID-?mobile_site=true).
+To start using AdMob, you'll to have an AdMob account and AdUnitId. To create account and AdUnitId, please follow Steps 1-6 from document [HERE](https://quickappninja.zendesk.com/hc/en-us/articles/115000826865-How-to-create-Banner-Admob-Ad-unit-ID-?mobile_site=true).
 
 ## Ad Guidance:
 
@@ -16,37 +14,9 @@ Please see AdMob video guide below. It is very important to follow their Terms o
 
 Create a new AppyBuilder project and name it TestAdmob
 
-Once Design Editor opens, from the left Category Palette, select the Monetize category, then drag the AdMob 
+Once Design Editor opens, from the left Category Palette, select the Monetize category, then drag the AdMob \(visible component\)  and drop into the Layout. You are now able to select this Component and change the Ad-Unit-ID property in the Properties Palette. 
 
-\(
-
-visible component
-
-\)
-
- and drop into the Layout. You are now able to select this Component 
-
-\(
-
-2
-
-\)
-
-, and change the Ad-Unit-ID property 
-
-\(
-
-3
-
-\)
-
- in the Properties Palette. 
-
-_**NOTE: For testing, you should use TEST AdUnitId. See link**_ 
-
-[_**HERE**_ ](https://developers.google.com/admob/android/test-ads)
-
-_**for these IDs.**_ 
+_**NOTE: For testing, you should use TEST AdUnitId. See link**_  [_**HERE**_ ](https://developers.google.com/admob/android/test-ads) _**for these IDs.**_ 
 
 ![](../../../.gitbook/assets/bookadmob1%20%282%29.png)
 
