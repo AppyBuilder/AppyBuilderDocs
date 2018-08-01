@@ -2,7 +2,7 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-![](.gitbook/assets/image%20%2828%29.png) **July 31st, 2018** Requires [Companion version 5.02](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+![](.gitbook/assets/image%20%2830%29.png) **July 31st, 2018** Requires [Companion version 5.02](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Feature:** Updates for **target SDK 26** 
 * **Feature:** Per **European GDPR** requirement, AdMob components now have blocks to get user consent
