@@ -7,7 +7,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Feature:** Updates for **target SDK 26** 
 * **Feature:** Per **European GDPR** requirement, AdMob components now have blocks to get user consent
 * **Feature:** For **AdMob** components, now includes ability to set personalized ads using SetConsent block 
-* **Feature:** Runtime permissions. Starting Aug 1st, Google requires that app-users have to specifically grant permission for dangerous PERMISSIONS. Dangerous permissions are like Camera, ContactPicker, Texting, PhoneCall, SoundRecorder, Reading / Writing to external storage \(File, Image\). AppyBuilder now checks to see if app uses these permissions \(e.g. Texting\). If yes, then it will automatically pop-up a dialog, asking user to grant permission.  
+* **Feature:** Runtime permissions. Starting Aug 1st, Google requires that app-users have to specifically grant permission for sensitive PERMISSIONS. Sensitive permissions are like Camera, ContactPicker, Texting, PhoneCall, SoundRecorder, Reading / Writing to external storage \(File, Image\). AppyBuilder now checks to see if app uses these permissions \(e.g. Texting\). If yes, then it will automatically pop-up a dialog, asking user to grant permission.  
 * **Feature:** Ability to request app-user to grant all permissions use Screen1.RequestAppPermissions block. This will be useful for extension developers. 
 * **UI / UX:** Updated user interface - Thanks to [Turbo\_Programming](https://community.appybuilder.com/u/turboprogramming/summary) for his country-flag and UI style contribution
 
