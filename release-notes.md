@@ -10,6 +10,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Bug fix:** Companion was not able to scan QR code to download apk directly to device
 * **Bug fix:** fixed variables / procedure color-blocks. Previously there were swapped
 * **Companion and building apps \(apk\).** The min sdk is now moved to API 21. We will try lower this API in future releases
+* **NOTE:** _**Screen1.RequestAppPermission**_ ****block - Depreciated \(obsolete\). If you are using this block, please remove from your app 
 
 ![](.gitbook/assets/foo.png)
 
