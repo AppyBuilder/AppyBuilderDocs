@@ -8,6 +8,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Bug fix:** Fixed issues related to AdMob clicks
 * **Bug fix:** Fixed issue for Texting messages. If received messages were &gt; 160 characters, only 25 chars were received
 * **Bug fix:** Companion was not able to scan QR code to download apk directly to device
+* **Bug fix:** fixed variables / procedure color-blocks. Previously there were swapped
 * **Companion and building apps \(apk\).** The min sdk is now moved to API 21. We will try lower this API in future releases
 
 ![](.gitbook/assets/foo.png)
