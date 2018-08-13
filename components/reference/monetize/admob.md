@@ -36,7 +36,7 @@ To support developers in meeting their duties under this policy, AppyBuilder has
 
 #### If user is in Europe, you can use block below to RequestConsentStatus
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
   
 Invoking above block will trigger event-handler block ConsentStatusLoaded block below. This block includes parameters below: 
@@ -50,5 +50,5 @@ Invoking above block will trigger event-handler block ConsentStatusLoaded block 
   
 Revoking Consent. You can use block block below to revoke / cancel the previous consent. This block was added to stay compliant with Google for allowing your app to reset / refresh consent.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 

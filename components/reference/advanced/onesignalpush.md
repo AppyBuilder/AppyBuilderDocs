@@ -64,3 +64,19 @@ The complete documentation can be found [HERE](https://documentation.onesignal.c
 
 ![](../../../.gitbook/assets/push10.png)
 
+
+
+### **Obtaining your application Keys & IDs**
+
+If you have already created a project and want to retrieve your application-key:
+
+* Open a browser window to http://onesignal.com
+* Select your project
+* Select Settings
+* Select "Keys & IDs
+* You will then be presented with 
+
+![](../../../.gitbook/assets/image%20%2825%29.png)
+
+![](../../../.gitbook/assets/image%20%285%29.png)
+
