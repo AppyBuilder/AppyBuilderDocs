@@ -14,23 +14,9 @@ Our simple app includes a button and clicking the button should start Screen2. T
 
 **emailusername.projectname.screenname**
 
-* Replace “projectname” to the “
-
-  **name of the project**
-
-  ”
-
-* Replace “emailusername” to the “
-
-  **username of your email**
-
-   \(text before @\). Also, if your username includes dot \(e.g. jdoe.01@gmail.com, replace . to \_ like jdoe\_01\)
-
-* Replace “screenname” to 
-
-  **“the screen you want to open**
-
-  “
+* Replace “projectname” to the “**name of the project**”
+* Replace “emailusername” to the “**username of your email** \(text before @\). Also, if your username includes dot \(e.g. jdoe.01@gmail.com, replace . to \_ like jdoe\_01\)
+* Replace “screenname” to **“the screen you want to open**“
 
 ![](https://i0.wp.com/community.appybuilder.com/uploads/default/optimized/1X/8d5681ae9151bcb41c4c02e79ed6da9cd35ff4b1_1_690x135.png)
 
@@ -40,5 +26,8 @@ This approach will properly work when you have built .apk. However, when using c
 
 ![](../../.gitbook/assets/bobanpackagename.png)
 
-![image](https://i2.wp.com/community.appybuilder.com/uploads/default/original/2X/6/63ef0ebe87c28266255f99cc51bb7ecdae585076.png)
+  
+
+
+
 
