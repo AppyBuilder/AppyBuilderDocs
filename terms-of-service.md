@@ -20,6 +20,12 @@ By creating and storing apps on the AppyBuilder server you represent and warrant
 
 AppyBuilder has no proprietary rights in the apps you create with AppyBuilder. These apps belong to you. Your apps are stored on the AppyBuilder server. You have the right to download your apps and delete them from the server at any time. If you delete an app, there is the possibility that AppyBuilder may be able to continue to access it from the backups we keep for purposes of system maintenance, but these backups are periodically purged and are not designed for long-term preservation. AppyBuilder will strive to keep your apps and your account accessible to you for as long as you wish, but we have no obligation to do so, and AppyBuilder has no liability for the consequences of the service becoming unavailable or your apps becoming unavailable. We therefore strongly suggest that you maintain backup copies of valuable apps at places besides the AppyBuilder server.
 
+## Violation of Policies
+
+AppyBuilder provides ability to add monetization to your apps. However, you should follow AdMob / Amazon Terms of Service \(ToS\). Please watch AdMob video guide below . It is very important to follow their ToS and guide. Violation of their ToS could cause suspension of your app or all apps published by you. If we notice repeated violations, we reserve the right to de-authorize your AppyBuilder account.
+
+​[https://support.google.com/admob/answer/6128877?hl=en](https://support.google.com/admob/answer/6128877?hl=en)​
+
 ## Analytics
 
 AppyBuilder may collect and analyze data and other information relating to the provision, use and performance of various aspects of the Services and related systems and technologies \(including, without limitation, information concerning User Content and data derived therefrom\) \(“**Services Analytics Data**”\), and AppyBuilder will be free \(during and after the term hereof\) to \(i\) use such information and data for any purpose, including to improve and enhance the Services and for other development, diagnostic and corrective purposes in connection with the Services and other AppyBuilder offerings, \(ii\) conduct industry research and publish insights and reports, and \(iii\) disclose such data solely in aggregate or other de-identified form in connection with its business.
