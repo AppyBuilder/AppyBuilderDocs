@@ -2,7 +2,7 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-![](.gitbook/assets/image%20%2846%29.png) **Sept 18, 2018** -[ Requires Companion Version 5.04](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+![](.gitbook/assets/image%20%2846%29.png) **Sept 18, 2018** -[ Requires Companion Version 5.04](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - _**Should be available in Play Store soon**_
 
 * **Enhancement** - Added Screen1 MinAPI. This is a configurable drop-down property that allows choosing minimum API version from 14 \(Ice Cream Sandwich 4.02\) through 21 \(Lollipop 5.0\); thus allowing installation of apps on lower API devices. Default will be 14
 * **Enhancement** - Added Screen1 MaxAPI. This is a configurable drown-down property that allows choosing maximum API version from 22 \( Lollipop 5.1\) through 26 \( Oreo 8.0\). If you intend to publish your apps to Google Play Store, you should use API 26. However, if you distribute apps internally \(e.g. side-loading\) and do not need to have user grant permissions, then you can use API 22
