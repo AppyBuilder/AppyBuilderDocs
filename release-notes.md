@@ -4,12 +4,12 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](.gitbook/assets/image%20%2846%29.png) **Sept 18, 2018** -[ Requires Companion Version 5.04](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) 
 
-* **Enhancement** - Added Screen1 MinAPI. This is a configurable drop-down property that allows choosing minimum API version from 14 \(Ice Cream Sandwich 4.02\) through 21 \(Lollipop 5.0\); thus allowing installation of apps on lower API devices. Default will be 14
-* **Enhancement** - Added Screen1 MaxAPI. This is a configurable drown-down property that allows choosing maximum API version from 22 \( Lollipop 5.1\) through 26 \( Oreo 8.0\). If you intend to publish your apps to Google Play Store, you should use API 26. However, if you distribute apps internally \(e.g. side-loading\) and do not need to have user grant permissions, then you can use API 22
-* **New component** - Added new GravitySensor component. This is a Non-visible component that provides a three dimensional vector indicating the direction and magnitude of gravity. Typically, this sensor is used to determine the device relative orientation in space 
-*  **New Component** - Added new Airtable spreadsheet component \(thanks to [Jerin Jacob](https://community.appybuilder.com/u/jerin_jacob/summary)![](.gitbook/assets/image%20%2829%29.png)\). This is non-visible Storage component that provides access to Airtable.com spreadsheets; allowing to use as alternative for storing and manipulating data in cloud. 
-* **Feature**: In Blocks editor, added bitwise AND, XOR, IOR to Math built-in blocks
-* **Bug fix**:  Fixed a previous regression in FusiontablesControl component
+* **Enhancement** - Added Screen1 _**MinAPI**_. This is a configurable drop-down property that allows choosing minimum API version from 14 \(Ice Cream Sandwich 4.02\) through 21 \(Lollipop 5.0\); thus allowing installation of apps on lower API devices. Default will be 14
+* **Enhancement** - Added Screen1 _**MaxAPI**_. This is a configurable drown-down property that allows choosing maximum API version from 22 \( Lollipop 5.1\) through 26 \( Oreo 8.0\). If you intend to publish your apps to Google Play Store, you should use API 26. However, if you distribute apps internally \(e.g. side-loading\) and do not need to have user grant permissions, then you can use API 22
+* **New component** - Added new _**GravitySensor**_ component. This is a Non-visible component that provides a three dimensional vector indicating the direction and magnitude of gravity. Typically, this sensor is used to determine the device relative orientation in space 
+*  **New Component** - Added new _**Airtable**_ spreadsheet component \(thanks to [Jerin Jacob](https://community.appybuilder.com/u/jerin_jacob/summary)![](.gitbook/assets/image%20%2829%29.png)\). This is non-visible Storage component that provides access to Airtable.com spreadsheets; allowing to use as alternative for storing and manipulating data in cloud. Sign up [HERE](https://airtable.com/invite/r/eHgwOBFW)
+* **Feature**: In Blocks editor, added **bitwise** AND, XOR, IOR to _**Math built-in blocks**_
+* **Bug fix**:  Fixed a previous regression in _**FusiontablesControl**_ component
 * **UI / UX**:  In Designer editor, removed the left component panel swing effect
 * **UI / UX:**  In Blocks editor, added context menu items to enable and disable all blocks
 * **Companion**: Now can run on devices 4.x and above
