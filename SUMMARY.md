@@ -90,6 +90,7 @@
       * [NxtTouchSensor](components/reference/legomindstorms/nxttouchsensor.md)
       * [Ev3ColorSensor](components/reference/legomindstorms/ev3colorsensor-1.md)
     * [Storage](components/reference/storage/README.md)
+      * [Airtable](components/reference/storage/airtable.md)
       * [File](components/reference/storage/file.md)
       * [FirebaseDB](components/reference/storage/firebasedb.md)
       * [FTPManager](components/reference/storage/ftpmanager.md)
