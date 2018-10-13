@@ -2,6 +2,21 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+\*\*\*\*![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 13, 2018** -[ Requires Companion Version 5.05](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+
+* **Bug fix** - Fixed issues with OneSignalPush notification. Now it even works with Android +8 version - \(Github issue \#8\)
+* **New Component** - Added new Facebook Interstatial monetization component \(Github issue \#17\)
+* **Bug** **fix** - Fixed the Circle component issue for the Maps \(Github issue \# 28\)
+* **Feature** - upgraded AppyBuilder to support building larger apps. The limit is no almost 20MB
+* **Enhancement** - Added **Volume** block to **Player** component for setting / retrieving Player Volume
+* **Bug fix** - Fixed issue with Switch component \(Github issue \#23\)
+* **Enhancement** - **FirebaseDB** - added block to set **FirebaseURL** dynamically \(Github issue \#25\)
+* **Enhancement** - Added **DrawPolygon** block to **Canvas** component. Using this block, provides ability to draw polygon shape with +3 sides \(Github issue \# 29\)
+* **Enhancement** - Updated **AdMob** banner component to remove the black background \(Github issue \#27\)
+* **UI/UX updates** - minor UI/UX updates
+
+![](.gitbook/assets/foo.png)
+
 ![](.gitbook/assets/image%20%2855%29.png) **Sept 18, 2018** -[ Requires Companion Version 5.04](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) 
 
 * **Enhancement** - Added Screen1 _**MinAPI**_. This is a configurable drop-down property that allows choosing minimum API version from 14 \(Ice Cream Sandwich 4.02\) through 21 \(Lollipop 5.0\); thus allowing installation of apps on lower API devices. Default will be 14

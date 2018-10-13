@@ -4,7 +4,7 @@ The latest MIT App Inventor Openstreet Map component is now available in AppyBui
 
 The Map component provides three utilities for manipulating its boundaries within App Inventor. First, a locking mechanism allows the map to be moved relative to other components on the Screen. Second, when unlocked, the user can pan the Map to any location. At this new location, the “Set Initial Boundary” button can be pressed to save the current Map coordinates to its properties. Lastly, if the Map is moved to a different location, for example to add Markers off-screen, then the “Reset Map to Initial Bounds” button can be used to recenter the Map at the starting location.
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=-rRmMnO2oQ4\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/-rRmMnO2oQ4/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/-rRmMnO2oQ4?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/-rRmMnO2oQ4?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=-rRmMnO2oQ4" %}
 
 ## Circle {#Circle}
 
