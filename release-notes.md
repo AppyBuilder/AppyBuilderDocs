@@ -2,6 +2,12 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 15, 2018** - Same companion \(V 5.05\) - no update required
+
+* **Non-component release.** Only UI/UX updates to make blocks-editor use Scratch 3.0 color scheme
+
+![](.gitbook/assets/foo.png)
+
 \*\*\*\*![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 13, 2018** -[ Requires Companion Version 5.05](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Bug fix** - Fixed issues with OneSignalPush notification. Now it even works with Android +8 version - \(Github issue \#8\)
