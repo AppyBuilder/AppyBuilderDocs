@@ -6,7 +6,7 @@ The Map component provides three utilities for manipulating its boundaries withi
 
 {% embed url="https://www.youtube.com/watch?v=-rRmMnO2oQ4" %}
 
-## Circle {#Circle}
+## Circle <a id="Circle"></a>
 
 The Circle component visualizes a circle of a given radius, in meters, at a latitude and longitude. The circle's appearnce can be customized using properties such as[`FillColor`](http://gold.appybuilder.com/reference/components/maps.html#Circle.FillColor),[`StrokeColor`](http://gold.appybuilder.com/reference/components/maps.html#Circle.StrokeColor), and[`StrokeWidth`](http://gold.appybuilder.com/reference/components/maps.html#Circle.StrokeWidth).
 
@@ -142,7 +142,7 @@ Shows the info box for the circle if it is not visible. Otherwise, this method h
 
 is false.
 
-## FeatureCollection {#FeatureCollection}
+## FeatureCollection <a id="FeatureCollection"></a>
 
 A FeatureCollection groups one or more map features together. Any events that occur within a feature in the collection will also trigger the corresponding event in the collection component. FeatureCollections can be loaded from exernal resources to populate Maps with content. GeoJSON is the only format supported at this time.
 
@@ -262,7 +262,7 @@ LoadFromURL\(text url\)
 
 Call this method to load a GeoJSON description of a feature collection from a URL \(including file URLs\). If successful, the set of features managed by the feature collection will be replaced by the new features and LoadFeatureCollection event will be run. If an error occurs, the ErrorLoadingFeatureCollection event will be run instead.
 
-## LineString {#LineString}
+## LineString <a id="LineString"></a>
 
 LineString is a component for drawing an open, continuous sequence of lines on a Map. To add new points to a LineString, drag the midpoint of any segment away from the line to introduce a new vertex. Move a vertex by clicking and dragging the vertex to a new location. Clicking on a vertex will delete the vertex.
 
@@ -376,7 +376,7 @@ Shows the info box for the line string if it is not visible. Otherwise, this met
 
 is false.
 
-## Map {#Map}
+## Map <a id="Map"></a>
 
 A two-dimensional container that renders map tiles in the background and allows for multiple Marker elements to identify points on the map. Map tiles are supplied by OpenStreetMap contributors and the United States Geological Survey.
 
@@ -710,7 +710,7 @@ Save\(text path\)
 
 Saves descriptions of the map contents to the given path. Currently, this will only save the features using the GeoJSON format.
 
-## Marker {#Marker}
+## Marker <a id="Marker"></a>
 
 The Marker component indicates points on a Map, such as buildings or points of interest. Markers can be customized in many ways, such as using custom images from the app's assets. Markers can also be created dynamically using the[`CreateMarker`](http://gold.appybuilder.com/reference/components/maps.html#Map.CreateMarker)method and configured using the "Any Component" blocks.
 
@@ -884,7 +884,7 @@ ShowInfobox
 
 Shows the info box for the circle if it is not visible. Otherwise, no action will be taken. This method can be used to show the info box even if EnableInfobox is false.
 
-## Polygon {#Polygon}
+## Polygon <a id="Polygon"></a>
 
 Polygon encloses an arbitrary 2-dimensional area on a Map. Polygons can be used for drawing a perimeter, such as a campus, city, or country. Polygons begin as basic triangles. New vertices can be created by dragging the midpoint of a polygon away from the edge. Clicking on a vertex will remove the vertex, but a minimum of 3 vertices must exist at all times.
 
@@ -1006,7 +1006,7 @@ Shows the info box for the polygon if it is not visible. Otherwise, this method 
 
 is false.
 
-## Rectangle {#Rectangle}
+## Rectangle <a id="Rectangle"></a>
 
 Rectangles are polygons with fixed latitudes and longitudes for the north, south, east, and west boundaries. Moving a vertex of the rectangle updates the appropriate edges accordingly.
 

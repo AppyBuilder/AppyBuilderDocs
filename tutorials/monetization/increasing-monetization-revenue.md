@@ -1,6 +1,6 @@
 # Increasing  Monetization Revenue
 
-### From: \(Husain Al-Haboubi\) [habboubih](http://community.appybuilder.com/u/habboubih)- Last update: Sept. 21st, 2017 {#from-yaw-owusu-sarpong-felixsarp---last-update-aug-11-2017}
+### From: \(Husain Al-Haboubi\) [habboubih](http://community.appybuilder.com/u/habboubih)- Last update: Sept. 21st, 2017 <a id="from-yaw-owusu-sarpong-felixsarp---last-update-aug-11-2017"></a>
 
 In this article, I’ll go through some tips on how to improve your Admob revenue. Those tips will not necessarily show instant results. I will take some time so be patient!
 
