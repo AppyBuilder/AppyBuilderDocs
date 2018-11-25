@@ -2,7 +2,7 @@
 
 A Switch is a User Interface two-state toggle component that can select between two options. The user may drag the "thumb" back and forth to choose the selected option, or simply tap to toggle as if it were a checkbox. 
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2851%29.png)
 
 ![](https://help.appybuilder.com/assets/tutSwitch3.png)
 
@@ -12,5 +12,5 @@ This component includes Designer properties that allows for changing the default
 
 ![](../../../.gitbook/assets/image%20%287%29.png)
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
