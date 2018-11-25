@@ -1,6 +1,6 @@
 # Code Editor
 
-If you are extension developer, AppyBuilder Code-Editor \(_**Beta version**_\) allows you to create / build extensions \(plugins\) with ease of use. It is a fully fledged cloud-based platform that includes all the necessary tools to allow you to build your extension. This means that you don't need to download any special tools \(e.g. Java, AI, Ant, Python, etc.\) to your computer and all you need to do is just to point your browser to https://editor.AppyBuilder.com !
+If you are extension developer, AppyBuilder Code-Editor \(_**Beta version**_\) allows you to create / build extensions \(plugins\) with ease of use. It is a fully fledged cloud-based platform that includes all the necessary tools to allow you to build your extension. This means that you don't need to download any special tools \(e.g. Java, AI, Ant, Python, etc.\) to your computer and all you need to do is just to point your browser to https://editor.AppyBuilder.com. _**Special thanks to**_ [_**ConDigital**_](https://community.appybuilder.com/u/condigital/summary) _**and**_ [_**Ken**_](https://community.appybuilder.com/u/ken/summary) _**for their awesome teamwork to make this happen.**_
 
 _**NOTE: This is only Beta version. We have attempted very hard to create you this service. However, by using this service, you accept that you don't hold us responsible for possible loss of projects.**_
 
