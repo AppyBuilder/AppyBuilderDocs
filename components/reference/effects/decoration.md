@@ -8,13 +8,13 @@
 * 10,5 - same as above, but shorthand version
 * 10 - means same value for all top, left, bottom, right
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
 
 **SetPadding block**. This block allows you to set the gap around the component. It is the space inside the border, between the border and the actual content. For values, use same formats as SetMargin \(above\) can be used
 
-![](../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 SetShape block. This block allows you to create a rectangle or round shape for the visible component. It also allows you to change its background and border color. isRound allows you to make the component appear as rectangle \(false\) or round / oval \(true\).
 
-![](../../../.gitbook/assets/image%20%2872%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 

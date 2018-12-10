@@ -76,7 +76,7 @@ If you have already created a project and want to retrieve your application-key:
 * Select "Keys & IDs
 * You will then be presented with 
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 

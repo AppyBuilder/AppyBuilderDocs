@@ -12,19 +12,19 @@ You can setup a headerImage and a list of icons from [here](https://fontawesome.
 
 HeaderImagePath could be added from asset folder or point to the Internet or even you can leave it empty. Notice that for ListItems , it provides a CSV of items, and for ListIcons, it provides a CSV of icons from [here](https://fontawesome.com/cheatsheet)
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2847%29.png)
 
 **Open Sidebar.** A Sidebar which is already created, can be opened using the following block: 
 
-![](../../../.gitbook/assets/image%20%2865%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 **Checking Sidebar.** You can check if a Sidebar is opened or not  with the following block:
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 **Closing Sidebar.** if you want to close a created Sidebar, you can use the below Sidebar , by entering the sidebar name:
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2836%29.png)
 
 **Tutorial.** Please check-out e-Book tutorial [HERE](https://help.appybuilder.com/tutorials/creating-e-book).
 
