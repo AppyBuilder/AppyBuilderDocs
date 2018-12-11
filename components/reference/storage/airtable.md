@@ -6,7 +6,7 @@ AppyBuilder has component and blocks to access and manipulate your Airtable spre
 
 1. create an account [HERE](https://airtable.com/invite/r/57LRi5awhere) or simply log into Airtable. Next, create a spreadsheet using "Add a base" and then selecting "Start from scratch"
 
-![](../../../.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2866%29.png)
 
 2. After assigning a name, you'll be brought to a screen like below. I
 
@@ -25,7 +25,7 @@ Generating API key is by going to your account \(item 6 above\) and then generat
 
 4. Finally, you'll need to retrieve an id \(BaseId\) that is a unique id for the selected table. Goto [https://airtable.com/api](https://airtable.com/api) and then select the spreadsheet that was just created. When the page opens, scroll down to "AUTHENTICATION" and on right hand side select "node.js".  Take note of this BaseID.
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 
 To manipulate \(Add, Read, Update, Delete\) data, goto your AppyBuilder project and fro Storage category, select Airtable and drop onto layout:
 
@@ -50,5 +50,5 @@ There are also event-handler blocks that are associated with the blocks. For exa
 
 AppyBuilder contains may other blocks for handling single or multiple rows or columns or even single cell:
 
-![](../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2871%29.png)
 

@@ -23,28 +23,28 @@ To create New Project, click on "New Project" and you'll be presented with pop-u
   
 Click on "aix" to create a new extensions. You will be asked to enter a name. You don't need to enter .java for your project, it will be assigned automatically:
 
-![](.gitbook/assets/image%20%2879%29.png)
+![](.gitbook/assets/image%20%2882%29.png)
 
-![](.gitbook/assets/image%20%2858%29.png)
+![](.gitbook/assets/image%20%2861%29.png)
 
   
 Give your project a unique name \(e.g. MyExtension\) and click Continue button. You will then be presented with a base template in AppyBuilder CodeEditor:
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
 You are now ready to create your awesome extension. Using this CodeEditor, you'll be able to change options such as Theme and Font-Size. Change it to your preference. You'll also notice icons for allowing such options as Save, Undo, Redo, Find, Replace, Line-Wrapping and Full-Screen \(great for mobile-use\). Once you are ready to create .aix, just click on BUILD button. You will be then presented with a dialog button like below:
 
-![](.gitbook/assets/image%20%2881%29.png)
+![](.gitbook/assets/image%20%2884%29.png)
 
   
 Building of .aix time will be variable depending on volume and number of jobs in the queue. The system will automatically pop-up buttons when the build is ready \(below\). If there is build-error, you'll notice only 1 button for viewing the LOG \(Last Build Log\), otherwise, you'll also notice another button for downloading your .aix \("Download Aix\). _**NOTE: Your LOG and Aix will be available for 12 hours. After that, the buttons for "Download Aix" and "Download Log" will disappear**_
 
-![](.gitbook/assets/image%20%2878%29.png)
+![](.gitbook/assets/image%20%2881%29.png)
 
   
 To view the Log, or download Aix, just click on the related button. Clicking on "Download AIX" will download the .aix to your device, allowing you to import into AI platform. For example, the general template for .aix, will create 2 blocks for you as shown below:
 
-![](.gitbook/assets/image%20%2857%29.png)
+![](.gitbook/assets/image%20%2860%29.png)
 
   
 
@@ -53,14 +53,16 @@ To view the Log, or download Aix, just click on the related button. Clicking on 
 
 ###  Public Gallery
 
-AppyBuilder encourages sharing of information. It includes feature that allows projects to be marked as Private or Public \(default Private\). Once a project is marked as Public, it will be visible to everyone and can be used as a starting point for customizing and creating new extensions:
+AppyBuilder encourages sharing of information. It includes feature that allows projects to be marked as Private or Public \(default Private\). Once a project is marked as Public, it will be visible to everyone and can be used as a starting point for customizing and creating new extensions. To select and work with a public project, Click on "New Project", then select "Public Gallery":
 
-![](.gitbook/assets/image%20%2874%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 Once "Public Gallery" is selected, all public projects will be displayed like below:
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
   
-On selection of a public project, a copy of the project will be added to your projects. 
+On selection of a public project, a copy of the project will be added to your projects. The project WILL NOT be saved until you click on the Save icon. After that, this project will be added as PRIVATE to list of your own projects:
+
+![](.gitbook/assets/image%20%2857%29.png)
 

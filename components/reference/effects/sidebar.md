@@ -16,7 +16,7 @@ HeaderImagePath could be added from asset folder or point to the Internet or eve
 
 **Open Sidebar.** A Sidebar which is already created, can be opened using the following block: 
 
-![](../../../.gitbook/assets/image%20%2867%29.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 **Checking Sidebar.** You can check if a Sidebar is opened or not  with the following block:
 

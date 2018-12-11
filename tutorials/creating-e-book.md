@@ -2,7 +2,7 @@
 
 ## reating an E-book
 
-![Contributed by: Peter Mathijseen](../.gitbook/assets/image%20%2869%29.png)
+![Contributed by: Peter Mathijseen](../.gitbook/assets/image%20%2872%29.png)
 
 This tutorial written by [Peter Mathijssen](http://community.appybuilder.com/u/peter_mathijssen/summary), shows you how to create an E-book using just a few Components - see the image below. 
 
@@ -18,7 +18,7 @@ And the result will be
 
 The html-files use a small css file for formatting the text. But you can play with that.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 You can use the cheatsheet here for the icons: [https://fontawesome.com/cheatsheet](https://fontawesome.com/cheatsheet)
 
