@@ -4,7 +4,7 @@ Airtable is a non-visible component that is a spreadsheet-database hybrid, with 
 
 AppyBuilder has component and blocks to access and manipulate your Airtable spreadsheets. To start using Airtable:
 
-1. create an account [HERE](https://airtable.com/invite/r/57LRi5awhere) or simply log into Airtable. Next, create a spreadsheet using "Add a base" and then selecting "Start from scratch"
+1. create an account [HERE](https://airtable.com/invite/r/eHgwOBFW) or simply log into Airtable. Next, create a spreadsheet using "Add a base" and then selecting "Start from scratch"
 
 ![](../../../.gitbook/assets/image%20%2866%29.png)
 
