@@ -2,6 +2,17 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+![](.gitbook/assets/image%20%2868%29.png) **March 15, 2019** - Requires Companion v5.06
+
+* **OneSignalPush -** Added PlayerID property
+* **Texting** - Google now limits some permissions in the Google Play Store. Component updated to adhere to Google policy
+* **PhoneCall** - Google now limits some permissions in the Google Play Store. Component updated to adhere to Google policy
+* **Map** component - Bug Fix: Resolves an issue with using Map tiles \(Thanks to [Peter](https://community.appybuilder.com/u/peter/summary)\)
+* **PushNotification** - Bug fix: Resolves issue that PushNotification was throwing error messages on some devices \(Thanks to [Ken](https://community.appybuilder.com/u/ken/summary)\)
+* **Facebook** - Updated to latest Facebook SDK
+
+![](.gitbook/assets/foo.png)
+
 ![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 15, 2018** - Same companion \(V 5.05\) - no update required
 
 * **Non-component release.** Only UI/UX updates to make blocks-editor use Scratch 3.0 color scheme
