@@ -2,7 +2,7 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-![](.gitbook/assets/image%20%2868%29.png) **March 15, 2019** - Requires Companion v5.06
+![](.gitbook/assets/image%20%2868%29.png) **March 15, 2019** - Requires Companion **v5.06** \(side-load [HERE](https://goo.gl/rXHWF5)\) or **v5.07** from PlayStore [HERE](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold). NOTE: If you use v5.07, during live-testing, you'll receive a pop-up that you should upgrade. Please ignore this because we didn't want to have another Buildserver release
 
 * **OneSignalPush -** Added PlayerID property
 * **Texting** - Google now limits some permissions in the Google Play Store. Component updated to adhere to Google policy
