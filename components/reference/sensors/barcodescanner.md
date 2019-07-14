@@ -10,7 +10,7 @@ Text result of the previous scan.
 
 ### UseExternalScanner
 
-If true, Makeroid will look for and use an external scanning program such as "Bar Code Scanner."
+If true, AppyBuilder will look for and use an external scanning program such as "Bar Code Scanner."
 
 ## Events
 
