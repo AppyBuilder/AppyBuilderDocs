@@ -2,6 +2,8 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+  ![](.gitbook/assets/ablogo2.png) **July 1st, 2018** - Requires Companion [version 5.01](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+
 ![](.gitbook/assets/image%20%2868%29.png) **March 15, 2019** - Requires Companion **v5.06** \(side-load [HERE](https://goo.gl/rXHWF5)\) or **v5.07** from PlayStore [HERE](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold). NOTE: If you use v5.07, during live-testing, you'll receive a pop-up that you should upgrade. Please ignore this because we didn't want to have another Buildserver release
 
 * **OneSignalPush -** Added PlayerID property
@@ -13,13 +15,13 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](.gitbook/assets/foo.png)
 
-![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 15, 2018** - Same companion \(V 5.05\) - no update required
+![](.gitbook/assets/ablogo2%20%282%29.png) **Oct 15, 2018** - Same companion \(V 5.05\) - no update required
 
 * **Non-component release.** Only UI/UX updates to make blocks-editor use Scratch 3.0 color scheme
 
 ![](.gitbook/assets/foo.png)
 
-\*\*\*\*![](.gitbook/assets/ablogo2%20%281%29.png) **Oct 13, 2018** -[ Requires Companion Version 5.05](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+\*\*\*\*![](.gitbook/assets/ablogo2%20%282%29.png) **Oct 13, 2018** -[ Requires Companion Version 5.05](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Bug fix** - Fixed issues with OneSignalPush notification. Now it even works with Android +8 version - \(Github issue \#8\)
 * **New Component** - Added new Facebook Interstatial monetization component \(Github issue \#17\)
@@ -73,8 +75,6 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](.gitbook/assets/foo.png)
 
-  ![](.gitbook/assets/ablogo2.png) **July 1st, 2018** - Requires Companion [version 5.01](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
-
 * **Feature** - Added new _**Snackbar**_ component. This component is available in Effects category
 * **Feature** - Added new _**Sidebar**_ component. This component is available in Effects  category
 * **Feature** - Added new _**Decoration**_ component. This component is available in Effects category. It will allow you to change features such as component Margins, Padding
@@ -92,7 +92,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ![](.gitbook/assets/foo.png)
 
-![](.gitbook/assets/ablogo2%20%281%29.png) _**March 20, 2018**_  - Requires [**Companion v4.07**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
+![](.gitbook/assets/ablogo2%20%282%29.png) _**March 20, 2018**_  - Requires [**Companion v4.07**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold)
 
 * **Bug fix** - **Spacer** - Updated component to remove background color. Color is light gray
 * **Bug fix** - **ObfuscatedText** - was causing build issue.

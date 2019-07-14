@@ -1,6 +1,6 @@
 # File
 
-Non-visible component for storing and retrieving files. Use this component to write or read files on your device. The default behavior is to write files to the private data directory associated with your App. The Companion writes files to /sdcard/Makeroid/data for easy debugging. If the file path starts with a slash \(/\), then the file is created relative to /sdcard. For example, writing a file to /myFile.txt will write the file in /sdcard/myFile.txt.
+Non-visible component for storing and retrieving files. Use this component to write or read files on your device. The default behavior is to write files to the private data directory associated with your App. The Companion writes files to /sdcard/AppInventor/data for easy debugging. If the file path starts with a slash \(/\), then the file is created relative to /sdcard. For example, writing a file to /myFile.txt will write the file in /sdcard/myFile.txt.
 
 ## Properties
 
@@ -24,9 +24,9 @@ Deletes a file from storage. Prefix the filename with / to delete a specific fil
 
 ### ReadFrom\(text fileName\)
 
-Reads text from a file in storage. Prefix the filename with / to read from a specific file on the SD card \(for example, /myFile.txt will read the file /sdcard/myFile.txt\). To read assets packaged with an application \(also works for the Companion\) start the filename with // \(two slashes\). If a filename does not start with a slash, it will be read from the application's private storage \(for packaged apps\) and from /sdcard/Makeroid/data for the Companion.
+Reads text from a file in storage. Prefix the filename with / to read from a specific file on the SD card \(for example, /myFile.txt will read the file /sdcard/myFile.txt\). To read assets packaged with an application \(also works for the Companion\) start the filename with // \(two slashes\). If a filename does not start with a slash, it will be read from the application's private storage \(for packaged apps\) and from /sdcard/AppInventor/data for the Companion.
 
 ### SaveFile\(text text, text fileName\)
 
-Saves text to a file. If the filename begins with a slash \(/\) the file is written to the sdcard \(for example, writing to /myFile.txt will write the file to /sdcard/myFile.txt\). If the filename does not start with a slash, it will be written in the program's private data directory where it will not be accessible to other programs on the phone. There is a special exception for the Makeroid Companion where these files are written to /sdcard/Makeroid/data to facilitate debugging. Note that this block will overwrite a file if it already exists. If you want to add content to a file use the append block.
+Saves text to a file. If the filename begins with a slash \(/\) the file is written to the sdcard \(for example, writing to /myFile.txt will write the file to /sdcard/myFile.txt\). If the filename does not start with a slash, it will be written in the program's private data directory where it will not be accessible to other programs on the phone. There is a special exception for the AppyBuilder Companion where these files are written to /sdcard/AppInventor/data to facilitate debugging. Note that this block will overwrite a file if it already exists. If you want to add content to a file use the append block.
 
